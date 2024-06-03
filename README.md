@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Kellyane2
-- 👀 I’m interested in criar projetos
-- 🌱 I’m currently learning fazer projetos 
-- 💞️ I’m looking to collaborate on criações 
-- 📫 How to reach me ainda não tenho 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kellyane2/Kellyane2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Kellyane 
+- Pretendo trabalhar na parte de vendas 
+-No momento  quero começar na administração 
+-Gosto de ajuda as pessoas 
+-Tenho 17 anos
+- quero trabalhar na empresa dos meus pais e com meus pais 
+- Também fazer arquitetura
